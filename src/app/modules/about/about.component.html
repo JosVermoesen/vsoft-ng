@@ -1,0 +1,41 @@
+<!-- PAGE HEADER -->
+<header id="page-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 m-auto text-left">
+        <h1>{{ "ABOUT.MainTitle" | translate }}</h1>
+        <p>{{ "ABOUT.MainSub" | translate }}</p>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- ABOUT SECTION -->
+<section id="about" class="py-3">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h1>{{ "ABOUT.OpenSourceTitle" | translate }}</h1>
+        <p>{{ "ABOUT.OpenSourceSub" | translate }}</p>
+        <a
+          href="{{ 'ABOUT.GithubUrl' | translate }}"
+          target="_blank"
+          class="btn btn-danger btn-lg mr-1"
+          >{{ "ABOUT.GithubButton" | translate }}</a
+        >
+      </div>
+      <div class="col-md-6">
+        <!--
+          https://source.unsplash.com/random/700x700/?opensource
+        -->
+        <img
+          [src]="('ABOUT.Image' | translate)"
+          [alt]="('ABOUT.ImageAlt' | translate)"
+          class="img-fluid rounded-4 shadow-sm d-none d-md-block about-img"
+          loading="lazy"
+          decoding="async"
+        />
+      </div>
+    </div>
+  </div>
+</section>

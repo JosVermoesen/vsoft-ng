@@ -1,0 +1,124 @@
+{
+  "COMMON": {
+    "BoxLabel1": "Better",
+    "BoxLabel2": "Smarter",
+    "BoxLabel3": "Faster",
+    "BoxLabel4": "Stronger",
+    "IsRequired": "is required",
+    "InvalidEmail": "Invalid email address"
+  },
+
+  "MARINTEGRAAL": {
+    "Seo-Title": "Vsoft marIntegraal 1985",
+    "Seo-Keywords": "Vsoft, Plesk, Dotnet Core, ASP.NET 10, HTTPS",
+    "Seo-Description": "Accounting and administration package under Belgian law since 1985"
+  },
+
+  "HOSTING": {
+    "Seo-Title": "Vsoft Hosting since 2003",
+    "Seo-Keywords": "Jos, Vermoesen, Vsoft, insurance, service, services, accounting, hosting, webapp, open source, 1985, Vsoft 1985, mar, marIntegraal, accounting",
+    "Seo-Description": "Plesk Dotnet Core hosting since 2003"
+  },
+
+  "HOME": {
+    "Seo-Title": "Vsoft 1985",
+    "Seo-Keywords": "Vsoft, service, services, accounting, hosting, webapp, open source, 1985, Vsoft 1985, mar, marIntegraal, accounting",
+    "Seo-Description": "Vsoft Administrative software and service since 1985",
+
+    "Carousel-Image1": "assets/images/home/carousel-accounting.jfif",
+    "Carousel-Alt1": "first slide",
+    "Carousel-Link1": "/marintegraal",
+    "Carousel-TargetLink1": "_self",
+    "Carousel-Title1": "marIntegraal 1985",
+    "Carousel-SubTitle1": "Accounting and administration package under Belgian law",
+    "Carousel-ButtonLabel1": "Info",
+    "Carousel-ButtonClass1": "btn btn-primary btn-lg",
+
+    "Carousel-Image2": "assets/images/home/carousel-hosting.jfif",
+    "Carousel-Alt2": "second slide",
+    "Carousel-Link2": "/hosting",
+    "Carousel-TargetLink2": "_self",
+    "Carousel-Title2": "Hosting 2000",
+    "Carousel-SubTitle2": "ASP.NET 10 (Core) https hosting and mail services",
+    "Carousel-ButtonLabel2": "Info",
+    "Carousel-ButtonClass2": "btn btn-success btn-lg",
+
+    "Carousel-Image3": "assets/images/home/carousel-apps.jfif",
+    "Carousel-Alt3": "third slide",
+    "Carousel-Link3": "https://mijn.rv.be/",
+    "Carousel-TargetLink3": "_blank",
+    "Carousel-Title3": "Web Apps 2013",
+    "Carousel-SubTitle3": "",
+    "Carousel-ButtonLabel3": "Go to",
+    "Carousel-ButtonClass3": "btn btn-danger btn-lg",
+
+    "Carousel-Image4": "assets/images/home/frontside.jpg",
+    "Carousel-Alt4": "fourth slide",
+    "Carousel-Link4": "https://rv.be/",
+    "Carousel-TargetLink4": "_blank",
+    "Carousel-Title4": "Insurance 1935",
+    "Carousel-SubTitle4": "",
+    "Carousel-ButtonLabel4": "Go to",
+    "Carousel-ButtonClass4": "btn btn-warning btn-lg",
+
+    "Icon-Label1": "Business management",
+    "Icon-SubLabel1": "Accounting and administration package under Belgian law",
+    "Icon-Label2": "Plesk Hosting",
+    "Icon-SubLabel2": "Modern ASP.NET 10 (Core) https hosting and webmail",
+    "Icon-Label3": "PWA Apps",
+    "Icon-SubLabel3": "Consultation apps for your customers"
+  },
+
+  "CONTACT": {
+    "Seo-Title": "Vsoft 1985 Contact",
+    "Seo-Keywords": "Vsoft, 1985, Vsoft 1985, mar, marIntegraal, accounting",
+    "Seo-Description": "Vsoft administrative software and service since 1985",
+
+    "Title": "Contact us",
+    "TitleIntro": "",
+    "LocationLabel": "Our office",
+    "IntroLabel": "Schedule an appointment (recommended)",
+    "AddressLabel": "Address",
+    "MailLabel": "E-mail",
+    "PhoneLabel": "Phone",
+    "MobileLabel": "Mobile and WhatsApp",
+    "MessageTitle": "Send us a message",
+    "MessageNameLabel": "Name *",
+    "MessageRRLabel": "National registration number *",
+    "MessageMailLabel": "E-mail *",
+    "MessagePhoneLabel": "Phone",
+    "MessageTextLabel": "Your message *",
+    "CheckCCLabel": "Also send me a copy",
+    "MessageSendLabel": "Send",
+    "SendSuccess": "Sending succeeded",
+    "SendFailed": "Sending failed"
+  },
+
+  "NAVBAR": {
+    "NavTitle": "Vsoft 1985",
+    "NavAbout": "This App",
+    "NavContact": "Contact",
+    "NavSettings": "Settings",
+    "LanguageModalTitle": "Choose your language:",
+    "LanguageModalCloseBtnName": "Close"
+  },
+
+  "FOOTER": {
+    "Title": "Vermoesen Beheer Gcv"
+  },
+
+  "ABOUT": {
+    "Seo-Title": "About Vsoft 1985",
+    "Seo-Keywords": "Jos, Vermoesen, Vsoft, service, services, accounting, hosting, webapp, open source, 1985, Vsoft 1985, mar, marIntegraal, accounting",
+    "Seo-Description": "Angular landing page of Vsoft administrative software and service since 1985",
+
+    "MainTitle": "About this app",
+    "MainSub": "Simple single-page application built with Angular and ngx-translate.",
+    "OpenSourceTitle": "Open Source",
+    "OpenSourceSub": "On our GitHub page you can find the source code for this application for download and study.",
+    "GithubUrl": "https://github.com/JosVermoesen/vsoft-ng",
+    "GithubButton": "Source code on GitHub",
+    "Image": "assets/images/about/about2.jfif",
+    "ImageAlt": "Open source project illustration"
+  }
+}
